@@ -22,7 +22,6 @@
   }
 }
 
-
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -74,7 +73,6 @@
   }
 }
 
-
 @layer base {
   * {
     @apply border-border;
@@ -83,7 +81,6 @@
     @apply bg-background text-foreground;
   }
 }
-
 
 .react-flow__attribution {
   background: transparent !important;
