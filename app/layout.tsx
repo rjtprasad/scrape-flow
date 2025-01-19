@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Scrape Flow",
+  title: "ScrapeFlow",
   description: "ScrapeFlow is a powerful SaaS application, allow users to visually build and execute web scraping workflows.",
 };
 
